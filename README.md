@@ -10,5 +10,6 @@ Error Handling: Provides user-friendly error messages for invalid inputs .
 Technologies Used:-
 
 React.js: For building the user interface.
+Material UI library: For simplicity and responsiveness.
 Axios: For making HTTP requests to the weather API.
 CSS: For styling the components.
